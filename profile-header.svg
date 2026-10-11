@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" role="img" aria-label="m1rrornight — a place for things I feel like making">
+<style>.title{fill:#252631}.sub{fill:#727581}@media(prefers-color-scheme:dark){.title{fill:#ededf5}.sub{fill:#a4a6b6}}</style>
+<circle cx="360" cy="21" r="3" fill="#a494dd"/>
+<text x="360" y="81" text-anchor="middle" font-family="system-ui, sans-serif" font-size="42" font-weight="600" letter-spacing="-1.5" class="title">m1rrornight</text>
+<text x="360" y="116" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" letter-spacing="1" class="sub">a place for things I feel like making</text>
+</svg>

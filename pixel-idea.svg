@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-label="A half-body pixel character suddenly gets an idea">
+<style>.ink{fill:#292b36}.accent{fill:#9382d9}@media(prefers-color-scheme:dark){.ink{fill:#e4e4ee}}</style>
+<g shape-rendering="crispEdges"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 -6;0 0;0 0" keyTimes="0;.42;.46;.52;1" dur="6s" repeatCount="indefinite"/>
+<g class="ink"><path d="M216 58h48v8h-48zM208 66h8v40h-8zM264 66h8v40h-8zM216 106h16v8h-16zM248 106h16v8h-16zM224 114h8v8h-8zM248 114h8v8h-8zM216 130h8v24h-8zM232 130h8v24h-8zM248 130h8v24h-8zM208 130h8v8h-8zM200 138h16v16h-16zM192 154h16v8h-16zM272 130h8v8h-8zM264 138h16v16h-16zM272 154h16v8h-16zM224 154h8v8h-8zM248 154h8v8h-8z"/>
+<g transform="translate(0 82)"><g><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .15;1 1;1 1" keyTimes="0;.20;.225;.25;1" dur="6s" repeatCount="indefinite"/><path d="M224 -4h8v8h-8zM248 -4h8v8h-8z"/></g></g>
+<path d="M236 98h8v8h-8z"/>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.44;.46;.75;.82;1" dur="6s" repeatCount="indefinite"/>
+<g fill="#e8bb58"><path d="M306 45h20v5h-20zM301 50h30v20h-30zM306 70h20v5h-20zM311 75h10v5h-10zM313 29h5v9h-5zM285 48h9v5h-9zM338 48h9v5h-9zM291 32h5v5h-5zM333 32h5v5h-5z"/></g><path d="M311 82h10v5h-10z" class="accent"/>
+<path d="M171 65h5v16h-5zM171 88h5v5h-5z" class="accent"/>
+</g></g>
+<text x="240" y="213" text-anchor="middle" font-family="monospace" font-size="15" class="ink">a wild idea appeared!</text>
+</svg>
